@@ -1,0 +1,203 @@
+
+
+********** Feb2020LtspUpdate-0317-1318 **********
+    
+--- Feb2020LtspUpdate -- kimnyaki-main-server -- 0317-1318 ---
+
+ +++++ Actions Log Entries +++++
+  ---- Running As Superuser ----
+rsyncing additional content in /client_home/EducationalMaterial
+completion status 0
+updating some programs in /usr/local for better rebuild of student directories
+completion status 0
+rebuilding student image from student.tgz
+completed student_image build
+Finished update.
+  -------- Successful run. --------
+
+ +++++ Error Log Entries +++++
+rm: cannot remove 'student_image': No such file or directory
+
++++++ End +++++
+
+
+********** July2020RunnerUpdate-0715-1409 **********
+    
+--- July2020RunnerUpdate -- kimnyaki-main-server -- 0715-1409 ---
+
+ +++++ Actions Log Entries +++++
+Selecting previously unselected package libzstd1.
+(Reading database ... 382349 files and directories currently installed.)
+Preparing to unpack libzstd1_1.3.1+dfsg-1~ubuntu0.16.04.1_amd64.deb ...
+Unpacking libzstd1 (1.3.1+dfsg-1~ubuntu0.16.04.1) ...
+Setting up libzstd1 (1.3.1+dfsg-1~ubuntu0.16.04.1) ...
+Processing triggers for libc-bin (2.23-0ubuntu10) ...
+Selecting previously unselected package zstd.
+(Reading database ... 382354 files and directories currently installed.)
+Preparing to unpack zstd_1.3.1+dfsg-1~ubuntu0.16.04.1_amd64.deb ...
+Unpacking zstd (1.3.1+dfsg-1~ubuntu0.16.04.1) ...
+Setting up zstd (1.3.1+dfsg-1~ubuntu0.16.04.1) ...
+Processing triggers for man-db (2.7.5-1) ...
+New compression program zstd and runner program installed
+  -------- Successful run. --------
+
++++++ End +++++
+
+
+********** July2020LtspUpdate-0715-1410 **********
+    
+--- July2020LtspUpdate -- main-server -- 0715-1410 ---
+
+ +++++ Actions Log Entries +++++
+  ---- Running As Superuser ----
+rsyncing additional content in /opt to add new Libreoffice
+completion status 0
+rsyncing files in /usr to add new Libreoffice, update buildStudentHomeDirectories, updateStudentList, etc
+completion status 0
+rebuilding student image from student.tgz
+completed student_image build
+Finished update.
+  -------- Successful run. --------
+
++++++ End +++++
+
+
+********** Aug2020RunnerUpdateV4-0817-0924 **********
+    
+--- Aug2020RunnerUpdateV4 -- main-server -- 0817-0924 ---
+
+ +++++ Actions Log Entries +++++
+  ---- Running As Superuser ----
+  >> zstd compression program already installed correctly
+-- Updating runner, adding emergencyLogout
+-- Performing 'ls -l' of key directories.
+   - Check file "/tmp/AugRunnerUpdateLs.txt" for result.
+-- Setting ownerships in key areas
+   - /
+   - /client_home
+   - /usr
+   - /var
+   - /home
+  >> Ownership set complete
+
+>>>Finished update.
+  ---- Performing Test ----
+  ---- Testing As Superuser ----
+
+-- Checking for decompression command 'zstdcat'
+  >> Command in place and executable.
+-- Testing command
+  >> Command completed wthout error.
+-- Checking uncompressed file
+  >> File uncompressed successfully.
+-- Performing 'ls -l' of key directories.
+   - Check file "/tmp/AugRunnerUpdateLs.txt" for result.
+
+---- Checking some key file ownerships ----
+  - Checking /run
+  - Checking /Squid
+  - Checking /usr/local
+  - Checking /client_home/EducationalMaterial
+  - Checking /client_home/EducationalMaterial/Kahn/kalite
+  - Checking /client_home/AllUsersShared
+  - Checking /client_home/share
+  - Checking /usr/local/share/apps/updateStudentList.py
+  - Checking /usr/local/share/apps/SystemMonitor.py
+  - Checking /usr/local/share/apps/videoStreamer.py
+  - Checking /usr/local/etc/account_templates
+  - Checking /home/sysadmin
+  -------- Successful run. --------
+
+ +++++ Error Log Entries +++++
+  ---- Performing Test ----
+
++++++ End +++++
+
+
+********** Aug2020LtspImageUpdateV2-0817-0927 **********
+    
+--- Aug2020LtspImageUpdateV2 -- main-server -- 0817-0927 ---
+
+ +++++ Actions Log Entries +++++
+  ---- Running As Superuser ----
+-- Adding libreoffice 6.4.5 to /opt
+  >> Libreoffice 6.4 program install successful
+-- Updating and correcting /usr/local/share/apps
+-- Setting up libreoffice links
+-- Updating /etc/rc.local
+-- Assuring backup will run
+-- Extracting student account image from image tar file
+  >> extract successful
+-- Rebuilding 30 student accounts.
+      It is ok if there are retries on one or more of the
+      accounts.
+Replaced home directory for student1
+Replaced home directory for student2
+Replaced home directory for student3
+Replaced home directory for student4
+Replaced home directory for student5
+Replaced home directory for student6
+Replaced home directory for student7
+Replaced home directory for student8
+Replaced home directory for student9
+Replaced home directory for student10
+Replaced home directory for student11
+Replaced home directory for student12
+Replaced home directory for student13
+Replaced home directory for student14
+Replaced home directory for student15
+Replaced home directory for student16
+Replaced home directory for student17
+Replaced home directory for student18
+Replaced home directory for student19
+Replaced home directory for student20
+Replaced home directory for student21
+Replaced home directory for student22
+Replaced home directory for student23
+Replaced home directory for student24
+Replaced home directory for student25
+Replaced home directory for student26
+Replaced home directory for student27
+Replaced home directory for student28
+Replaced home directory for student29
+Replaced home directory for student30
+  >> rebuildStudentHomeDirectories succeeded.
+
+-- Setting ownerships in key areas
+   - /
+   - /client_home
+   - /usr
+   - /var
+   - /home
+  >> Ownership set complete
+
+>>>Finished update.
+  ---- Performing Test ----
+  ---- Testing As Superuser ----
+-- Checking for full installation of libreoffice6.4
+  >> libreoffice6.4 installed
+  >> Libreoffice link correct.
+-- Performing 'ls -l' of key directories.
+   - Check file "/tmp/LtspImageUpdateFilesystemLs.txt"
+   for result.
+---- Checking some key file ownerships ----
+  - Checking /run
+  - Checking /Squid
+  - Checking /usr/local
+  - Checking /client_home/EducationalMaterial
+  - Checking /client_home/EducationalMaterial/Kahn/kalite
+  - Checking /client_home/AllUsersShared
+  - Checking /client_home/share
+  - Checking /usr/local/share/apps/updateStudentList.py
+  - Checking /usr/local/share/apps/SystemMonitor.py
+  - Checking /usr/local/share/apps/videoStreamer.py
+  - Checking /usr/local/etc/account_templates
+  - Checking /home/sysadmin
+-- Rebuilding student accounts.
+  >> Correct number of student accounts built.
+  -------- Successful run. --------
+
+ +++++ Error Log Entries +++++
+  ---- Performing Test ----
+
++++++ End +++++

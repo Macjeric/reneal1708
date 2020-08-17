@@ -1,0 +1,933 @@
+
+
+********** runner_test-0717-1826 **********
+    
+--- runner_test -- test-server -- 0717-1826 ---
+
+ +++++ Actions Log Entries +++++
+  -------- Failed run. --------
+
+ +++++ Error Log Entries +++++
+/usr/local/bin/runner: line 245: runner_test: command not found
+  -------- Failed run. --------
+
++++++ End +++++
+
+
+********** runner_test-0717-1834 **********
+    
+--- runner_test -- test-server -- 0717-1834 ---
+
+ +++++ Actions Log Entries +++++
+  -------- Failed run. --------
+
+ +++++ Error Log Entries +++++
+/usr/local/bin/runner: line 245: runner_test: command not found
+  -------- Failed run. --------
+
++++++ End +++++
+
+
+********** runner_test-0717-1835 **********
+    
+--- runner_test -- test-server -- 0717-1835 ---
+
+ +++++ Actions Log Entries +++++
+  -------- Failed run. --------
+
+ +++++ Error Log Entries +++++
+/usr/local/bin/runner: line 245: runner_test: command not found
+  -------- Failed run. --------
+
++++++ End +++++
+
+
+********** runner_test-0717-1836 **********
+    
+--- runner_test -- test-server -- 0717-1836 ---
+
+ +++++ Actions Log Entries +++++
+  -------- Failed run. --------
+
+ +++++ Error Log Entries +++++
+/usr/local/bin/runner: line 245: runner_test: command not found
+  -------- Failed run. --------
+
++++++ End +++++
+
+
+********** runner_test-0717-1839 **********
+    
+--- runner_test -- test-server -- 0717-1839 ---
+
+ +++++ Actions Log Entries +++++
+  -------- Failed run. --------
+
+ +++++ Error Log Entries +++++
+/usr/local/bin/runner: line 245: runner_test: command not found
+  -------- Failed run. --------
+
++++++ End +++++
+
+
+********** demo-0717-1840 **********
+    
+--- demo -- test-server -- 0717-1840 ---
+This is a test of a run file
+with a test script. It should create two
+files in /tmp
+ +++++ Actions Log Entries +++++
+  ---- Running As Superuser ----
+writing simple1
+writing simple2
+  -------- Failed run. --------
+
+ +++++ Error Log Entries +++++
+  -------- Failed run. --------
+
++++++ End +++++
+
+
+********** demo_with_test-0717-1841 **********
+    
+--- demo_with_test -- test-server -- 0717-1841 ---
+This is a test of a run file
+with a test script. It should create two
+files in /tmp
+ +++++ Actions Log Entries +++++
+  ---- Running As Superuser ----
+writing simple1
+writing simple2
+  -------- Failed run. --------
+
+ +++++ Error Log Entries +++++
+  -------- Failed run. --------
+
++++++ End +++++
+
+
+********** demo_with_test-0717-1844 **********
+    
+--- demo_with_test -- test-server -- 0717-1844 ---
+This is a test of a run file
+with a test script. It should create two
+files in /tmp
+ +++++ Actions Log Entries +++++
+  ---- Running As Superuser ----
+writing simple1
+writing simple2
+  -------- Failed run. --------
+
+ +++++ Error Log Entries +++++
+  -------- Failed run. --------
+
++++++ End +++++
+
+
+********** runner_test-0717-1849 **********
+    
+--- runner_test -- test-server -- 0717-1849 ---
+
+ +++++ Actions Log Entries +++++
+  -------- Failed run. --------
+
+ +++++ Error Log Entries +++++
+/home/master/CodeDevelopment/systemApps/runner.sh: line 245: runner_test: command not found
+  -------- Failed run. --------
+
++++++ End +++++
+
+
+********** runner_test-0717-1851 **********
+    
+--- runner_test -- test-server -- 0717-1851 ---
+
+ +++++ Actions Log Entries +++++
+writing simple1
+writing simple2
+  -------- Successful run. --------
+
++++++ End +++++
+
+
+********** demo-0717-1852 **********
+    
+--- demo -- test-server -- 0717-1852 ---
+This is a test of a run file
+with a test script. It should create two
+files in /tmp
+ +++++ Actions Log Entries +++++
+  ---- Running As Superuser ----
+  -------- Failed run. --------
+
+ +++++ Error Log Entries +++++
+  -------- Failed run. --------
+
++++++ End +++++
+
+
+********** demo-0717-1853 **********
+    
+--- demo -- test-server -- 0717-1853 ---
+This is a test of a run file
+with a test script. It should create two
+files in /tmp
+ +++++ Actions Log Entries +++++
+  ---- Running As Superuser ----
+writing simple1
+writing simple2
+  -------- Failed run. --------
+
+ +++++ Error Log Entries +++++
+  -------- Failed run. --------
+
++++++ End +++++
+
+
+********** demo_with_test-0717-1854 **********
+    
+--- demo_with_test -- test-server -- 0717-1854 ---
+This is a test of a run file
+with a test script. It should create two
+files in /tmp
+ +++++ Actions Log Entries +++++
+  ---- Running As Superuser ----
+writing simple1
+writing simple2
+  -------- Failed run. --------
+
+ +++++ Error Log Entries +++++
+  -------- Failed run. --------
+
++++++ End +++++
+
+
+********** demo_with_test-0717-2028 **********
+    
+--- demo_with_test -- test-server -- 0717-2028 ---
+This is a test of a run file
+with a test script. It should create two
+files in /tmp
+ +++++ Actions Log Entries +++++
+  ---- Running As Superuser ----
+writing simple1
+writing simple2
+  -------- Failed run. --------
+
+ +++++ Error Log Entries +++++
+  -------- Failed run. --------
+
++++++ End +++++
+
+
+********** demo_with_test-0717-2031 **********
+    
+--- demo_with_test -- test-server -- 0717-2031 ---
+This is a test of a run file
+with a test script. It should create two
+files in /tmp
+ +++++ Actions Log Entries +++++
+  ---- Running As Superuser ----
+writing simple1
+writing simple2
+  -------- Failed run. --------
+
+ +++++ Error Log Entries +++++
+  -------- Failed run. --------
+
++++++ End +++++
+
+
+********** demo-0717-2032 **********
+    
+--- demo -- test-server -- 0717-2032 ---
+This is a test of a run file
+with a test script. It should create two
+files in /tmp
+ +++++ Actions Log Entries +++++
+  ---- Running As Superuser ----
+writing simple1
+writing simple2
+  -------- Failed run. --------
+
+ +++++ Error Log Entries +++++
+  -------- Failed run. --------
+
++++++ End +++++
+
+
+********** runner_test-0717-2039 **********
+    
+--- runner_test -- test-server -- 0717-2039 ---
+
+ +++++ Actions Log Entries +++++
+writing simple1
+writing simple2
+  -------- Successful run. --------
+
++++++ End +++++
+
+
+********** demo-0717-2045 **********
+    
+--- demo -- test-server -- 0717-2045 ---
+This is a test of a run file
+with a test script. It should create two
+files in /tmp
+ +++++ Actions Log Entries +++++
+  ---- Running As Superuser ----
+writing simple1
+writing simple2
+  -------- Failed run. --------
+
+ +++++ Error Log Entries +++++
+  -------- Failed run. --------
+
++++++ End +++++
+
+
+********** demo-0717-2047 **********
+    
+--- demo -- test-server -- 0717-2047 ---
+This is a test of a run file
+with a test script. It should create two
+files in /tmp
+ +++++ Actions Log Entries +++++
+  ---- Running As Superuser ----
+writing simple1
+writing simple2
+  -------- Failed run. --------
+
+ +++++ Error Log Entries +++++
+  -------- Failed run. --------
+
++++++ End +++++
+
+
+********** demo-0717-2050 **********
+    
+--- demo -- test-server -- 0717-2050 ---
+This is a test of a run file
+with a test script. It should create two
+files in /tmp
+ +++++ Actions Log Entries +++++
+  ---- Running As Superuser ----
+writing simple1
+writing simple2
+  -------- Failed run. --------
+
+ +++++ Error Log Entries +++++
+  -------- Failed run. --------
+
++++++ End +++++
+
+
+********** demo-0717-2050 **********
+    
+--- demo -- test-server -- 0717-2050 ---
+
+ +++++ Actions Log Entries +++++
+  ---- Running As Superuser ----
+writing simple1
+writing simple2
+  -------- Failed run. --------
+
+ +++++ Error Log Entries +++++
+  -------- Failed run. --------
+mkdir: cannot create directory ‘/tmp/demo-0717-2050’: File exists
+
+Could not make the directory /tmp/demo-0717-2050.
+
++++++ End +++++
+
+
+********** demo-0717-2051 **********
+    
+--- demo -- test-server -- 0717-2051 ---
+This is a test of a run file
+with a test script. It should create two
+files in /tmp
+ +++++ Actions Log Entries +++++
+  ---- Running As Superuser ----
+writing simple1
+writing simple2
+  -------- Failed run. --------
+
+ +++++ Error Log Entries +++++
+  -------- Failed run. --------
+
++++++ End +++++
+
+
+********** runner_test-0717-2051 **********
+    
+--- runner_test -- test-server -- 0717-2051 ---
+
+ +++++ Actions Log Entries +++++
+writing simple1
+writing simple2
+  -------- Successful run. --------
+
++++++ End +++++
+
+
+********** runner_test-0717-2228 **********
+    
+--- runner_test -- test-server -- 0717-2228 ---
+
+ +++++ Actions Log Entries +++++
+writing simple1
+writing simple2
+  -------- Successful run. --------
+
++++++ End +++++
+
+
+********** runner_test-0717-2237 **********
+    
+--- runner_test -- test-server -- 0717-2237 ---
+
+ +++++ Actions Log Entries +++++
+writing simple1
+writing simple2
+  -------- Successful run. --------
+
++++++ End +++++
+
+
+********** demo_with_test-0717-2238 **********
+    
+--- demo_with_test -- test-server -- 0717-2238 ---
+This is a test of a run file
+with a test script. It should create two
+files in /tmp
+ +++++ Actions Log Entries +++++
+  ---- Running As Superuser ----
+writing simple1
+writing simple2
+  ---- Performing Test ----
+  ---- Testing As Superuser ----
+computing md5sum checksum for each file
+ca9f3f3ee76d25bb4cc16aed8d3cc548  /tmp/simple1
+83facf2a6f48c7b2dcd5ed6b0c6620ee  /tmp/simple2
+computing md5sum checksum for each file
+ca9f3f3ee76d25bb4cc16aed8d3cc548  /tmp/simple1
+83facf2a6f48c7b2dcd5ed6b0c6620ee  /tmp/simple2
+  -------- Failed run. --------
+
+ +++++ Error Log Entries +++++
+  ---- Performing Test ----
+  -------- Failed run. --------
+
++++++ End +++++
+
+
+********** demo_with_test-0717-2239 **********
+    
+--- demo_with_test -- test-server -- 0717-2239 ---
+This is a test of a run file
+with a test script. It should create two
+files in /tmp
+ +++++ Actions Log Entries +++++
+  ---- Running As Superuser ----
+writing simple1
+writing simple2
+  ---- Performing Test ----
+  ---- Testing As Superuser ----
+computing md5sum checksum for each file
+ca9f3f3ee76d25bb4cc16aed8d3cc548  /tmp/simple1
+83facf2a6f48c7b2dcd5ed6b0c6620ee  /tmp/simple2
+  -------- Successful run. --------
+
+ +++++ Error Log Entries +++++
+  ---- Performing Test ----
+
++++++ End +++++
+
+
+********** monitor-0717-2309 **********
+    
+--- monitor -- test-server -- 0717-2309 ---
+This is a test of a run file
+that does not use sudo. It will fail if one of the
+other test files that write the sample files in /tmp
+have been run but will pass if /tmp/simple1 and /tmp/simple2 
+do not exist.
+ +++++ Actions Log Entries +++++
+writing simple1
+writing simple2
+  -------- Successful run. --------
+
++++++ End +++++
+
+
+********** monitor-0717-2310 **********
+    
+--- monitor -- test-server -- 0717-2310 ---
+This is a test of a run file
+that does not use sudo. It will fail if one of the
+other test files that write the sample files in /tmp
+have been run but will pass if /tmp/simple1 and /tmp/simple2 
+do not exist.
+ +++++ Actions Log Entries +++++
+writing simple1
+writing simple2
+  -------- Successful run. --------
+
++++++ End +++++
+
+
+********** with_test-0717-2315 **********
+    
+--- with_test -- test-server -- 0717-2315 ---
+This is a test of a run file
+with a test script. It should create two
+files in /tmp
+ +++++ Actions Log Entries +++++
+  ---- Running As Superuser ----
+writing simple1
+writing simple2
+  ---- Performing Test ----
+  ---- Testing As Superuser ----
+  -------- Failed run. --------
+
+ +++++ Error Log Entries +++++
+  ---- Performing Test ----
+/bin/bash: /tmp/with_test-0717-2315test.sh: No such file or directory
+  -------- Failed run. --------
+
++++++ End +++++
+
+
+********** with_test-0717-2316 **********
+    
+--- with_test -- test-server -- 0717-2316 ---
+This is a test of a run file
+with a test script. It should create two
+files in /tmp
+ +++++ Actions Log Entries +++++
+  ---- Running As Superuser ----
+writing simple1
+writing simple2
+  ---- Performing Test ----
+  ---- Testing As Superuser ----
+  -------- Failed run. --------
+
+ +++++ Error Log Entries +++++
+  ---- Performing Test ----
+/bin/bash: /tmp/with_test-0717-2316test.sh: No such file or directory
+  -------- Failed run. --------
+
++++++ End +++++
+
+
+********** with_test-0717-2317 **********
+    
+--- with_test -- test-server -- 0717-2317 ---
+This is a test of a run file
+with a test script. It should create two
+files in /tmp
+ +++++ Actions Log Entries +++++
+  ---- Running As Superuser ----
+writing simple1
+writing simple2
+  ---- Performing Test ----
+  ---- Testing As Superuser ----
+computing md5sum checksum for each file
+ca9f3f3ee76d25bb4cc16aed8d3cc548  /tmp/simple1
+83facf2a6f48c7b2dcd5ed6b0c6620ee  /tmp/simple2
+  -------- Successful run. --------
+
+ +++++ Error Log Entries +++++
+  ---- Performing Test ----
+
++++++ End +++++
+
+
+********** monitor-0717-2336 **********
+    
+--- monitor -- test-server -- 0717-2336 ---
+This is a test of a run file
+that does not use sudo. It will fail if one of the
+other test files that write the sample files in /tmp
+have been run but will pass if /tmp/simple1 and /tmp/simple2 
+do not exist.
+ +++++ Actions Log Entries +++++
+writing simple1
+writing simple2
+  -------- Successful run. --------
+
++++++ End +++++
+
+
+********** CiscoInstall-0717-2337 **********
+    
+--- CiscoInstall -- test-server -- 0717-2337 ---
+
+ +++++ Actions Log Entries +++++
+  ---- Running As Superuser ----
+Cisco Network Simulator has not yet been installed and tested on the OS Copy partition. Please reboot and select MainServer Copy Disk 1 (the third menu choice) on the boot screen menu and install on that copy of the OS. Then boot from that partition for thorough testing before installing on this primary OS partition. You cannot install on this partition at this time.
+  -------- Failed run. --------
+
+ +++++ Error Log Entries +++++
+Cisco Network Simulator has not yet been installed and tested on the OS Copy partition. Please reboot and select MainServer Copy Disk 1 (the third menu choice) on the boot screen menu and install on that copy of the OS. Then boot from that partition for thorough testing before installing on this primary OS partition. You cannot install on this partition at this time.
+  -------- Failed run. --------
+
++++++ End +++++
+
+
+********** CiscoInstall-0718-0849 **********
+    
+--- CiscoInstall -- test-server -- 0718-0849 ---
+
+ +++++ Actions Log Entries +++++
+  ---- Running As Superuser ----
+Already downloaded.
+Starting uncompression and file extraction.
+Extraction complete. Starting file install.
+All files in place. Starting generation programs.
+Parallel mksquashfs: Using 4 processors
+Creating 4.0 filesystem on /opt/ltsp/images/amd64.img.tmp, block size 131072.
+[=========\                                                  ] 12400/80807  15%[=========================/                                  ] 35300/80807  43%[==============================================-             ] 63900/80807  79%[===========================================================|] 80807/80807 100%
+
+Exportable Squashfs 4.0 filesystem, gzip compressed, data block size 131072
+	compressed data, compressed metadata, compressed fragments, compressed xattrs
+	duplicates are removed
+Filesystem size 1481834.71 Kbytes (1447.10 Mbytes)
+	44.64% of uncompressed filesystem size (3319159.23 Kbytes)
+Inode table size 1025633 bytes (1001.59 Kbytes)
+	26.97% of uncompressed inode table size (3803238 bytes)
+Directory table size 924965 bytes (903.29 Kbytes)
+	40.27% of uncompressed directory table size (2296761 bytes)
+Number of duplicate files found 4260
+Number of inodes 92288
+Number of files 61543
+Number of fragments 6227
+Number of symbolic links  23624
+Number of device nodes 80
+Number of fifo nodes 0
+Number of socket nodes 0
+Number of directories 7041
+Number of ids (unique uids + gids) 22
+Number of uids 6
+	root (0)
+	man (6)
+	avahi-autoipd (110)
+	_apt (105)
+	colord (112)
+	syslog (104)
+Number of gids 19
+	root (0)
+	video (44)
+	audio (29)
+	tty (5)
+	kmem (15)
+	disk (6)
+	shadow (42)
+	crontab (107)
+	utmp (43)
+	uuidd (111)
+	games (60)
+	messagebus (110)
+	sysmonitor (143)
+	staff (50)
+	ssh (118)
+	nogroup (65534)
+	adm (4)
+	syslog (108)
+	mail (8)
+Updating /var/lib/tftpboot directories for chroot: amd64
+Parallel mksquashfs: Using 4 processors
+Creating 4.0 filesystem on /opt/ltsp/images/i386.img.tmp, block size 131072.
+[================\                                           ] 27100/98478  27%[===================\                                        ] 31800/98478  32%[======================\                                     ] 37800/98478  38%[===========================================================/] 98478/98478 100%
+
+Exportable Squashfs 4.0 filesystem, gzip compressed, data block size 131072
+	compressed data, compressed metadata, compressed fragments, compressed xattrs
+	duplicates are removed
+Filesystem size 1591744.22 Kbytes (1554.44 Mbytes)
+	45.17% of uncompressed filesystem size (3523826.64 Kbytes)
+Inode table size 1246755 bytes (1217.53 Kbytes)
+	27.43% of uncompressed inode table size (4545620 bytes)
+Directory table size 1158071 bytes (1130.93 Kbytes)
+	41.47% of uncompressed directory table size (2792508 bytes)
+Number of duplicate files found 4294
+Number of inodes 115147
+Number of files 79799
+Number of fragments 8588
+Number of symbolic links  25309
+Number of device nodes 80
+Number of fifo nodes 1
+Number of socket nodes 0
+Number of directories 9958
+Number of ids (unique uids + gids) 22
+Number of uids 6
+	root (0)
+	man (6)
+	avahi-autoipd (110)
+	_apt (105)
+	colord (112)
+	syslog (104)
+Number of gids 19
+	root (0)
+	video (44)
+	audio (29)
+	tty (5)
+	kmem (15)
+	disk (6)
+	adm (4)
+	shadow (42)
+	crontab (107)
+	utmp (43)
+	uuidd (111)
+	games (60)
+	messagebus (110)
+	sysmonitor (143)
+	staff (50)
+	whoopsie (116)
+	nogroup (65534)
+	syslog (108)
+	mail (8)
+Updating /var/lib/tftpboot directories for chroot: i386
+Created /etc/nbd-server/conf.d/ltsp_amd64.conf
+Replaced home directory for student1
+Replaced home directory for student2
+Replaced home directory for student3
+Replaced home directory for student4
+Replaced home directory for student5
+Replaced home directory for student6
+Replaced home directory for student7
+Replaced home directory for student8
+Replaced home directory for student9
+Replaced home directory for student10
+Replaced home directory for student11
+Replaced home directory for student12
+Replaced home directory for student13
+Replaced home directory for student14
+Replaced home directory for student15
+Replaced home directory for student16
+Replaced home directory for student17
+Replaced home directory for student18
+Replaced home directory for student19
+Replaced home directory for student20
+Replaced home directory for student21
+Replaced home directory for student22
+Replaced home directory for student23
+Replaced home directory for student24
+Replaced home directory for student25
+Replaced home directory for student26
+Replaced home directory for student27
+Replaced home directory for student28
+Replaced home directory for student29
+Replaced home directory for student30
+Replaced home directory for student31
+Replaced home directory for student32
+Replaced home directory for student33
+Replaced home directory for student34
+Replaced home directory for student35
+Install complete. Please reboot to this OS.
+  -------- Successful run. --------
+
+ +++++ Error Log Entries +++++
+/tmp/CiscoInstall-0718-0849/run.sh: line 33:  5814 Terminated              zenity --info --text="Performing uncompression and file extraction." &> /dev/null
+
++++++ End +++++
+
+
+********** Feb2020LtspUpdate-0316-1104 **********
+    
+--- Feb2020LtspUpdate -- olturmet-main-server -- 0316-1104 ---
+
+ +++++ Actions Log Entries +++++
+  ---- Running As Superuser ----
+rsyncing additional content in /client_home/EducationalMaterial
+completion status 0
+updating some programs in /usr/local for better rebuild of student directories
+completion status 0
+rebuilding student image from student.tgz
+completed student_image build
+Finished update.
+  -------- Successful run. --------
+
++++++ End +++++
+
+
+********** July2020RunnerUpdate-0715-1034 **********
+    
+--- July2020RunnerUpdate -- olturmet-main-server -- 0715-1034 ---
+
+ +++++ Actions Log Entries +++++
+Selecting previously unselected package libzstd1.
+(Reading database ... 467848 files and directories currently installed.)
+Preparing to unpack libzstd1_1.3.1+dfsg-1~ubuntu0.16.04.1_amd64.deb ...
+Unpacking libzstd1 (1.3.1+dfsg-1~ubuntu0.16.04.1) ...
+Setting up libzstd1 (1.3.1+dfsg-1~ubuntu0.16.04.1) ...
+Processing triggers for libc-bin (2.23-0ubuntu11) ...
+Selecting previously unselected package zstd.
+(Reading database ... 467853 files and directories currently installed.)
+Preparing to unpack zstd_1.3.1+dfsg-1~ubuntu0.16.04.1_amd64.deb ...
+Unpacking zstd (1.3.1+dfsg-1~ubuntu0.16.04.1) ...
+Setting up zstd (1.3.1+dfsg-1~ubuntu0.16.04.1) ...
+Processing triggers for man-db (2.7.5-1) ...
+New compression program zstd and runner program installed
+  -------- Successful run. --------
+
++++++ End +++++
+
+
+********** July2020LtspUpdate-0715-1035 **********
+    
+--- July2020LtspUpdate -- main-server -- 0715-1035 ---
+
+ +++++ Actions Log Entries +++++
+  ---- Running As Superuser ----
+rsyncing additional content in /opt to add new Libreoffice
+completion status 0
+rsyncing files in /usr to add new Libreoffice, update buildStudentHomeDirectories, updateStudentList, etc
+completion status 0
+rebuilding student image from student.tgz
+completed student_image build
+Finished update.
+  -------- Successful run. --------
+
++++++ End +++++
+
+
+********** Aug2020RunnerUpdateV4-0817-0748 **********
+    
+--- Aug2020RunnerUpdateV4 -- main-server -- 0817-0748 ---
+
+ +++++ Actions Log Entries +++++
+  ---- Running As Superuser ----
+  >> zstd compression program already installed correctly
+-- Updating runner, adding emergencyLogout
+-- Performing 'ls -l' of key directories.
+   - Check file "/tmp/AugRunnerUpdateLs.txt" for result.
+-- Setting ownerships in key areas
+   - /
+   - /client_home
+   - /usr
+   - /var
+   - /home
+  >> Ownership set complete
+
+>>>Finished update.
+  ---- Performing Test ----
+  ---- Testing As Superuser ----
+
+-- Checking for decompression command 'zstdcat'
+  >> Command in place and executable.
+-- Testing command
+  >> Command completed wthout error.
+-- Checking uncompressed file
+  >> File uncompressed successfully.
+-- Performing 'ls -l' of key directories.
+   - Check file "/tmp/AugRunnerUpdateLs.txt" for result.
+
+---- Checking some key file ownerships ----
+  - Checking /run
+  - Checking /Squid
+  - Checking /usr/local
+  - Checking /client_home/EducationalMaterial
+  - Checking /client_home/EducationalMaterial/Kahn/kalite
+  - Checking /client_home/AllUsersShared
+  - Checking /client_home/share
+  - Checking /usr/local/share/apps/updateStudentList.py
+  - Checking /usr/local/share/apps/SystemMonitor.py
+  - Checking /usr/local/share/apps/videoStreamer.py
+  - Checking /usr/local/etc/account_templates
+  - Checking /home/sysadmin
+  -------- Successful run. --------
+
+ +++++ Error Log Entries +++++
+  ---- Performing Test ----
+
++++++ End +++++
+
+
+********** Aug2020LtspImageUpdateV2-0817-0751 **********
+    
+--- Aug2020LtspImageUpdateV2 -- main-server -- 0817-0751 ---
+
+ +++++ Actions Log Entries +++++
+  ---- Running As Superuser ----
+-- Adding libreoffice 6.4.5 to /opt
+  >> Libreoffice 6.4 program install successful
+-- Updating and correcting /usr/local/share/apps
+-- Setting up libreoffice links
+-- Updating /etc/rc.local
+-- Assuring backup will run
+-- Extracting student account image from image tar file
+  >> extract successful
+-- Rebuilding 30 student accounts.
+      It is ok if there are retries on one or more of the
+      accounts.
+Replaced home directory for student1
+Replaced home directory for student2
+Replaced home directory for student3
+Replaced home directory for student4
+Replaced home directory for student5
+Replaced home directory for student6
+Replaced home directory for student7
+Replaced home directory for student8
+Replaced home directory for student9
+Replaced home directory for student10
+Replaced home directory for student11
+Replaced home directory for student12
+Replaced home directory for student13
+Replaced home directory for student14
+Replaced home directory for student15
+Replaced home directory for student16
+Replaced home directory for student17
+Replaced home directory for student18
+Replaced home directory for student19
+Replaced home directory for student20
+Replaced home directory for student21
+Replaced home directory for student22
+Replaced home directory for student23
+Replaced home directory for student24
+Replaced home directory for student25
+Replaced home directory for student26
+Replaced home directory for student27
+Replaced home directory for student28
+Replaced home directory for student29
+Replaced home directory for student30
+  >> rebuildStudentHomeDirectories succeeded.
+
+-- Setting ownerships in key areas
+   - /
+   - /client_home
+   - /usr
+   - /var
+   - /home
+  >> Ownership set complete
+
+>>>Finished update.
+  ---- Performing Test ----
+  ---- Testing As Superuser ----
+-- Checking for full installation of libreoffice6.4
+  >> libreoffice6.4 installed
+  >> Libreoffice link correct.
+-- Performing 'ls -l' of key directories.
+   - Check file "/tmp/LtspImageUpdateFilesystemLs.txt"
+   for result.
+---- Checking some key file ownerships ----
+  - Checking /run
+  - Checking /Squid
+  - Checking /usr/local
+  - Checking /client_home/EducationalMaterial
+  - Checking /client_home/EducationalMaterial/Kahn/kalite
+  - Checking /client_home/AllUsersShared
+  - Checking /client_home/share
+  - Checking /usr/local/share/apps/updateStudentList.py
+  - Checking /usr/local/share/apps/SystemMonitor.py
+  - Checking /usr/local/share/apps/videoStreamer.py
+  - Checking /usr/local/etc/account_templates
+  - Checking /home/sysadmin
+-- Rebuilding student accounts.
+  >> Correct number of student accounts built.
+  -------- Successful run. --------
+
+ +++++ Error Log Entries +++++
+  ---- Performing Test ----
+
++++++ End +++++

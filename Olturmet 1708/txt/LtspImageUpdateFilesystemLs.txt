@@ -1,0 +1,191 @@
+ls of key filesystems after LtspImageUpdate Mon Aug 17 07:52:06 EAT 2020
+
+---- /
+total 136K
+drwxr-xr-x   2 root  root  4.0K 11/16/2019 bin
+drwxr-xr-x   3 root  root  4.0K 11/16/2019 boot
+drwxrwxr-x   2 root  root  4.0K 04/23/2016 cdrom
+drwxr-xr-x   2 root  root  4.0K 04/29/2019 Client
+drwxr-xr-x   9 root  root  4.0K 02/17/2020 client_home
+drwxr-xr-x  32 root  root  4.0K 08/17/2020 client_home_local
+drwxr-xr-x  39 root  root  4.0K 03/16/2020 client_home_students
+drwxr-xr-x  19 root  root  4.5K 08/17/2020 dev
+drwxr-xr-x 180 root  root   12K 07/15/2020 etc
+drwxr-xr-x   5 root  root  4.0K 09/22/2019 home
+lrwxrwxrwx   1 root  root    33 11/16/2019 initrd.img -> boot/initrd.img-4.15.0-70-generic
+drwxr-xr-x  24 root  root  4.0K 03/01/2019 lib
+drwxr-xr-x   2 root  root  4.0K 03/01/2019 lib64
+drwx------   2 root  root   16K 04/23/2016 lost+found
+drwxr-xr-x   2 root  root  4.0K 01/18/2019 MainStorage
+drwxr-xr-x   4 root  root  4.0K 08/17/2020 media
+drwxr-xr-x   2 root  root  4.0K 04/21/2016 mnt
+drwxrwxr-x   6 root  root  4.0K 08/17/2020 opt
+drwxr-xr-x   8 root  root  4.0K 05/07/2013 OS_Copies
+dr-xr-xr-x 263 root  root     0 08/17/2020 proc
+drwx------  28 root  root  4.0K 02/12/2020 root
+drwxr-xr-x  38 root  root  1.3K 08/17/2020 run
+drwxr-xr-x   2 root  root  4.0K 11/16/2019 sbin
+drwxr-xr-x   2 root  root  4.0K 06/14/2018 snap
+drwxr-xr-x  67 proxy proxy 4.0K 08/17/2020 Squid
+drwxr-xr-x   2 root  root  4.0K 04/21/2016 srv
+dr-xr-xr-x  13 root  root     0 08/17/2020 sys
+drwxrwxrwt  13 root  root   16K 08/17/2020 tmp
+drwxr-xr-x   2 root  root  4.0K 08/14/2019 updates
+drwxr-xr-x  10 root  root  4.0K 07/06/2020 usr
+drwxr-xr-x  16 root  root  4.0K 06/17/2019 var
+lrwxrwxrwx   1 root  root    30 11/16/2019 vmlinuz -> boot/vmlinuz-4.15.0-70-generic
+
+---- /usr
+total 136K
+drwxr-xr-x   2 root root  68K 08/17/2020 bin
+drwxr-xr-x   2 root root 4.0K 08/09/2017 games
+drwxr-xr-x  74 root root 4.0K 11/16/2019 include
+drwxr-xr-x 175 root root  20K 11/16/2019 lib
+drwxr-xr-x  10 root root 4.0K 07/09/2020 local
+drwxr-xr-x   2 root root  20K 11/16/2019 sbin
+drwxr-xr-x 412 root root  12K 07/06/2020 share
+drwxr-xr-x  14 root root 4.0K 11/16/2019 src
+
+---- /opt
+total 16K
+drwx--x--x 4 root root 4.0K 03/20/2019 containerd
+lrwxrwxrwx 1 root root   15 04/27/2016 drbl -> /usr/share/drbl
+drwxr-xr-x 8 root root 4.0K 11/30/2016 epson-inkjet-printer-201310w
+drwxr-xr-x 7 root root 4.0K 08/08/2020 libreoffice6.4
+drwxr-xr-x 5 root root 4.0K 07/18/2019 ltsp
+
+---- /home
+total 12K
+drwxr-xr-x  3 basicadmin basicadmin 4.0K 03/22/2017 basicadmin
+drwxr-xr-x 61 master     master     4.0K 02/13/2020 master
+drwxr-xr-x 37 sysadmin   sysadmin   4.0K 08/17/2020 sysadmin
+
+---- /client_home
+total 36K
+drwxr-xr-x 19 root teacher  4.0K 02/25/2020 AllUsersShared
+drwxr-xr-x 12 root root     4.0K 02/16/2020 EducationalMaterial
+drwx------  2 root root      16K 01/18/2018 lost+found
+drwxrwxr-x  5 root sysadmin 4.0K 07/15/2020 share
+drwxr-xr-x 43 root teacher  4.0K 10/09/2019 teachers
+drwxr-x--- 18 root teacher  4.0K 07/21/2018 TeachersShared
+
+---- /client_home/EducationalMaterial
+total 80K
+drwxrwxr-x  2 root root 4.0K 11/04/2014 EssentialHealthClassicsEnglish
+drwxrwxr-x  2 root root 4.0K 11/02/2014 EssentialHealthClassicsKiswahili
+drwxrwxr-x  4 root root 4.0K 04/26/2019 Kahn
+drwxrwxr-x  2 root root  44K 07/30/2013 KahnKiswahili
+drwxrwxr-x 11 root root 4.0K 06/14/2018 PhET
+drwxrwxr-x 32 root root 4.0K 04/29/2019 Rachel
+drwxrwxr-x  4 root root 4.0K 02/16/2020 TanzanianNationalExams
+drwxrwxr-x  2 root root 4.0K 12/27/2017 TrainingVideos
+drwxrwxr-x  4 root root 4.0K 03/06/2019 W3SchoolWebsiteCopy
+drwxrwxr-x  9 root root 4.0K 02/03/2020 WorldPossibleSecondarySchoolResources
+
+---- /client_home/EducationalMaterial/Kahn
+total 4.0K
+drwxr-xr-x 9 kalite kalite 4.0K 08/17/2020 kalite
+
+---- /client_home/AllUsersShared
+total 68K
+drwxrwxr-x 3 root teacher 4.0K 02/16/2020 Bookkeeping
+drwxrwxr-x 3 root teacher 4.0K 08/11/2020 Civics
+drwxrwxr-x 3 root teacher 4.0K 02/16/2020 Commerce
+drwxrwxr-x 3 root teacher 4.0K 07/21/2020 English
+drwxrwxr-x 8 root teacher 4.0K 02/16/2020 Food and Nutrition
+drwxrwxr-x 2 root teacher 4.0K 08/15/2020 Geograpy
+drwxrwxr-x 2 root teacher 4.0K 01/23/2014 Guidance
+drwxrwxr-x 5 root teacher 4.0K 02/25/2020 History
+drwxrwxr-x 2 root teacher 4.0K 03/09/2020 Kiswahili
+drwxrwxr-x 3 root teacher 4.0K 12/06/2019 Mathematics
+drwxrwxr-x 3 root teacher 4.0K 11/21/2019 Music and Art
+drwxrwxr-x 2 root teacher 4.0K 11/19/2019 Physical Education
+drwxrwxr-x 3 root teacher 4.0K 10/16/2019 Religion
+drwxrwxr-x 4 root teacher 4.0K 08/15/2020 Sciences
+drwxrwxr-x 6 root teacher 4.0K 01/04/2015 Shared
+drwxrwxr-x 2 root teacher 4.0K 07/12/2018 SpecialEvents
+drwxrwxr-x 2 root teacher 4.0K 01/04/2015 Vocational
+
+---- /usr/local
+total 32K
+drwxr-xr-x  3 root root 4.0K 08/17/2020 bin
+drwxr-xr-x  6 root root 4.0K 07/09/2020 etc
+drwxr-xr-x  2 root root 4.0K 04/21/2016 games
+drwxr-xr-x  2 root root 4.0K 09/03/2016 include
+drwxr-xr-x  6 root root 4.0K 07/15/2016 lib
+drwxr-xr-x  2 root root 4.0K 04/21/2016 sbin
+drwxr-xr-x 26 root root 4.0K 07/07/2020 share
+drwxr-xr-x  2 root root 4.0K 04/21/2016 src
+
+---- /usr/local/share/apps
+total 2.0M
+-rwxr-xr-x 1 root root       1.9K 01/19/2018 app-launcher
+-rwxr-xr-x 1 root root       1.5K 01/27/2017 app-launcher.std
+-rw-rw-r-- 1 root root       4.5K 01/17/2019 backgroundFunctions.py
+-rwxr-xr-x 1 root root        18K 03/10/2018 backupAllFilesystems.py
+-rwxr----- 1 root root        962 01/19/2018 blockInternetAddress.sh
+-rwxrwxr-- 1 root root       3.0K 07/09/2020 buildRunnerFile.sh
+-rwxr--r-- 1 root root       2.1K 07/01/2019 changeClientOSImage.sh
+-rwxr----- 1 root root        197 09/25/2017 checkFilesystems.sh
+-rwxr-xr-- 1 root root       6.2K 08/09/2017 checkUserHomeSize.py
+-rwxr-xr-x 1 root root       2.7K 10/01/2019 checkWireless.py
+-rw-r--r-- 1 root root       2.2K 11/14/2018 checkWireless.pyc
+-rwxr-xr-x 1 root root       5.4K 10/01/2019 chooseInternetInterface.py
+-rwxr-xr-x 1 root root         68 10/08/2018 chooseInternetInterface.sh
+-rw-rw-r-- 1 root root       4.9K 10/07/2018 chooseInternetInterface.ui
+-rwxr-xr-- 1 root root       6.2K 01/06/2020 cleanupAtBoot.py
+-rwxrwxr-x 1 root root        573 04/26/2019 cleanupForInstall.sh
+-rwxr--r-- 1 root root       2.4K 08/08/2016 cleanupLtspfsLeftoverMounts.py
+-rwxr-xr-x 1 root root       4.0K 02/05/2017 clientShowLocalMedia.py
+-rwxr-xr-- 1 root root        31K 08/01/2019 configureNetworkInterfaces.py
+-rwxr-xr-- 1 root root        268 08/27/2018 configureWirelessInternet.py
+-rwxr-xr-x 1 root root       7.5K 03/04/2017 convertTeacherFrom1204.py
+-rwxr-xr-- 1 root root        187 08/27/2018 createAllNumberedTeacherAccounts.sh
+-rwxr--r-- 1 root root         66 10/08/2018 createTeacherAccountGui.sh
+-rwxr--r-- 1 root root        11K 01/18/2019 createTeacherAccount.py
+-rwxr--r-- 1 root root       2.9K 10/07/2018 createTeachersFromSpreadsheet.py
+-rwxr--r-- 1 root root         73 03/01/2017 delayedSystemCheck.sh
+-rwxr-xr-x 1 root root        353 08/02/2020 emergencyLogout.sh
+-rwxrwxr-- 1 root root       4.2K 10/09/2018 emptyUsersTrash.py
+-rwxr-xr-- 1 root root       3.5K 09/26/2018 endOfYearCleanup.py
+-rwxr-xr-- 1 root root        566 07/06/2020 epoptesScreenControl.sh
+-rwxr--r-- 1 root root       1.3K 09/14/2018 finishNewSystemBuild.sh
+-rw-r--r-- 1 root root          0 08/04/2016 __init__.py
+-rwxr----- 1 root root       1.3K 01/16/2019 internetControl.sh
+-rw-rw-r-- 1 root root        20K 08/15/2020 localFunctions.py
+-rwxr-xr-x 1 root root         49 09/03/2016 ltsp_media_unmount.sh
+-rwxr-xr-x 1 root root       160K 02/08/2018 makeStudentPersonalDirectory
+-rwxr-xr-- 1 root teacher    172K 04/22/2019 manageClasses.py
+-rwxrwxr-x 1 root root       2.7K 02/17/2020 monitorInactive.py
+-rwxr--r-- 1 root root       9.2K 09/26/2018 oldCreateTeacherAccount.py
+drwxr-xr-x 2 root root       4.0K 08/17/2020 __pycache__
+-rwxr-xr-- 1 root root        239 02/17/2020 rclocalActions.sh
+-rwxr-xr-- 1 root root       6.8K 07/16/2018 rebuildSquidCache.py
+-rwxrw-r-- 1 root root       8.4K 07/06/2020 rebuildStudentHomeDirectories.py
+-rwxrwxr-x 1 root root       8.8K 07/05/2020 replaceInactiveStudentHomeDirs.py
+-rwxr--r-- 1 root root         37 08/04/2016 restartProxyServer.sh
+-rwxrwxr-- 1 root root        13K 08/02/2020 runner.sh
+-rwxr-xr-x 1 root root       1.2K 02/11/2017 runReplaceInactiveStudentHomeDir.py
+-rwxr-xr-x 1 root root       7.3K 07/06/2020 scaleScreen.py
+-rwxr-xr-x 1 root root       1.1K 06/17/2019 scriptWrapper.sh
+-rwx------ 1 root root       846K 01/19/2018 sendInfoSMTP
+-rwxr-xr-x 1 root root       105K 08/28/2016 setupSystemMonitorLockDir
+-rwxr-xr-x 1 root root       8.6K 10/01/2019 setupWirelessInterface.py
+-rwxr-xr-x 1 root root         67 10/08/2018 setupWirelessInterface.sh
+-rw-rw-r-- 1 root root       5.0K 10/07/2018 setupWirelessInterface.ui
+-rwxrwxr-x 1 root root       3.8K 05/28/2015 stopButton.py
+-rwxr-xr-x 1 root root        38K 01/29/2019 studentSignIn.py
+-rw-rw-r-- 1 root root        44K 04/29/2019 sysChkIO.py
+-rw-r--r-- 1 root root        17K 07/15/2018 systemCheckGui.py
+-rwxrwxr-x 1 root root        94K 07/07/2020 systemCheck.py
+-rwxr-xr-x 1 root root         63 10/23/2018 systemCheckWithGui.sh
+-rwxr-x--- 1 root sysmonitor  39K 04/06/2019 SystemMonitor.py
+-rwxr-xr-x 1 root sysmonitor  16K 10/30/2018 systemPerformanceMonitor.py
+-rwxr----- 1 root root        670 01/19/2018 unblockInternetAddress.sh
+-rwxr--r-- 1 root root        546 09/15/2018 updateSharedPermissions.sh
+-rwxr--r-- 1 root root       1.3K 12/12/2016 updateSquidguardDB.sh
+-rwxr-xr-- 1 root sysadmin    32K 08/15/2020 updateStudentList.py
+-rwxr-x--- 1 root teacher     23K 01/24/2017 videoStreamer.py
+-rwxr-xr-x 1 root root       7.1K 01/24/2017 videoViewer.py
+-rwxr--r-- 1 root root       3.7K 12/27/2018 writeMonitorFile.py
+

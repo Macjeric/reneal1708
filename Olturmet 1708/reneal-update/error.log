@@ -1,0 +1,204 @@
+
+
+********** runner_test-0717-1826 **********
+    
+/usr/local/bin/runner: line 245: runner_test: command not found
+  -------- Failed run. --------
+
+
+********** runner_test-0717-1834 **********
+    
+/usr/local/bin/runner: line 245: runner_test: command not found
+  -------- Failed run. --------
+
+
+********** runner_test-0717-1835 **********
+    
+/usr/local/bin/runner: line 245: runner_test: command not found
+  -------- Failed run. --------
+
+
+********** runner_test-0717-1836 **********
+    
+/usr/local/bin/runner: line 245: runner_test: command not found
+  -------- Failed run. --------
+
+
+********** runner_test-0717-1839 **********
+    
+/usr/local/bin/runner: line 245: runner_test: command not found
+  -------- Failed run. --------
+
+
+********** demo-0717-1840 **********
+    
+  -------- Failed run. --------
+
+
+********** demo_with_test-0717-1841 **********
+    
+  -------- Failed run. --------
+
+
+********** demo_with_test-0717-1844 **********
+    
+  -------- Failed run. --------
+
+
+********** runner_test-0717-1849 **********
+    
+/home/master/CodeDevelopment/systemApps/runner.sh: line 245: runner_test: command not found
+  -------- Failed run. --------
+
+
+********** runner_test-0717-1851 **********
+    
+
+
+********** demo-0717-1852 **********
+    
+  -------- Failed run. --------
+
+
+********** demo-0717-1853 **********
+    
+  -------- Failed run. --------
+
+
+********** demo_with_test-0717-1854 **********
+    
+  -------- Failed run. --------
+
+
+********** demo_with_test-0717-2028 **********
+    
+  -------- Failed run. --------
+
+
+********** demo_with_test-0717-2031 **********
+    
+  -------- Failed run. --------
+
+
+********** demo-0717-2032 **********
+    
+  -------- Failed run. --------
+
+
+********** runner_test-0717-2039 **********
+    
+
+
+********** demo-0717-2045 **********
+    
+  -------- Failed run. --------
+
+
+********** demo-0717-2047 **********
+    
+  -------- Failed run. --------
+
+
+********** demo-0717-2050 **********
+    
+  -------- Failed run. --------
+
+
+********** demo-0717-2050 **********
+    
+  -------- Failed run. --------
+mkdir: cannot create directory ‘/tmp/demo-0717-2050’: File exists
+
+Could not make the directory /tmp/demo-0717-2050.
+
+
+********** demo-0717-2051 **********
+    
+  -------- Failed run. --------
+
+
+********** runner_test-0717-2051 **********
+    
+
+
+********** runner_test-0717-2228 **********
+    
+
+
+********** runner_test-0717-2237 **********
+    
+
+
+********** demo_with_test-0717-2238 **********
+    
+  ---- Performing Test ----
+  -------- Failed run. --------
+
+
+********** demo_with_test-0717-2239 **********
+    
+  ---- Performing Test ----
+
+
+********** monitor-0717-2309 **********
+    
+
+
+********** monitor-0717-2310 **********
+    
+
+
+********** with_test-0717-2315 **********
+    
+  ---- Performing Test ----
+/bin/bash: /tmp/with_test-0717-2315test.sh: No such file or directory
+  -------- Failed run. --------
+
+
+********** with_test-0717-2316 **********
+    
+  ---- Performing Test ----
+/bin/bash: /tmp/with_test-0717-2316test.sh: No such file or directory
+  -------- Failed run. --------
+
+
+********** with_test-0717-2317 **********
+    
+  ---- Performing Test ----
+
+
+********** monitor-0717-2336 **********
+    
+
+
+********** CiscoInstall-0717-2337 **********
+    
+Cisco Network Simulator has not yet been installed and tested on the OS Copy partition. Please reboot and select MainServer Copy Disk 1 (the third menu choice) on the boot screen menu and install on that copy of the OS. Then boot from that partition for thorough testing before installing on this primary OS partition. You cannot install on this partition at this time.
+  -------- Failed run. --------
+
+
+********** CiscoInstall-0718-0849 **********
+    
+/tmp/CiscoInstall-0718-0849/run.sh: line 33:  5814 Terminated              zenity --info --text="Performing uncompression and file extraction." &> /dev/null
+
+
+********** Feb2020LtspUpdate-0316-1104 **********
+    
+
+
+********** July2020RunnerUpdate-0715-1034 **********
+    
+
+
+********** July2020LtspUpdate-0715-1035 **********
+    
+
+
+********** Aug2020RunnerUpdateV4-0817-0748 **********
+    
+  ---- Performing Test ----
+
+
+********** Aug2020LtspImageUpdateV2-0817-0751 **********
+    
+  ---- Performing Test ----
